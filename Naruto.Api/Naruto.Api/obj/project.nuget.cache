@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZK1lruA9TZ8XJcZGqO91Uu3+1cUV0YwSJtEh38Ik0dIHCtxpijYbvduFA9hKu6ABpcyRmQIMiP/aRbUgKbExfg==",
+  "dgSpecHash": "/OyXfEZSzCi1q8ROL/qvUi58+/uxUCfhP0wUtgIuhKiJBScSqtHnKdj8GM6uGKM/DeSB1yrL5d6i83m05cslrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abraa\\OneDrive\\Área de Trabalho\\SPTECH\\PI\\Projeto Pessoal\\Naruto.Api\\Naruto.Api\\Naruto.Api.csproj",
+  "projectFilePath": "C:\\Users\\abraa\\OneDrive\\Área de Trabalho\\SPTECH\\PI\\Projeto Pessoal\\Naruto-Project-API\\Naruto.Api\\Naruto.Api\\Naruto.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abraa\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\abraa\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

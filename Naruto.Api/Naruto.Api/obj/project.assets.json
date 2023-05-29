@@ -6392,11 +6392,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abraa\\OneDrive\\Área de Trabalho\\SPTECH\\PI\\Projeto Pessoal\\Naruto.Api\\Naruto.Api\\Naruto.Api.csproj",
+      "projectUniqueName": "C:\\Users\\abraa\\OneDrive\\Área de Trabalho\\SPTECH\\PI\\Projeto Pessoal\\Naruto-Project-API\\Naruto.Api\\Naruto.Api\\Naruto.Api.csproj",
       "projectName": "Naruto.Api",
-      "projectPath": "C:\\Users\\abraa\\OneDrive\\Área de Trabalho\\SPTECH\\PI\\Projeto Pessoal\\Naruto.Api\\Naruto.Api\\Naruto.Api.csproj",
+      "projectPath": "C:\\Users\\abraa\\OneDrive\\Área de Trabalho\\SPTECH\\PI\\Projeto Pessoal\\Naruto-Project-API\\Naruto.Api\\Naruto.Api\\Naruto.Api.csproj",
       "packagesPath": "C:\\Users\\abraa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abraa\\OneDrive\\Área de Trabalho\\SPTECH\\PI\\Projeto Pessoal\\Naruto.Api\\Naruto.Api\\obj\\",
+      "outputPath": "C:\\Users\\abraa\\OneDrive\\Área de Trabalho\\SPTECH\\PI\\Projeto Pessoal\\Naruto-Project-API\\Naruto.Api\\Naruto.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abraa\\AppData\\Roaming\\NuGet\\NuGet.Config",
